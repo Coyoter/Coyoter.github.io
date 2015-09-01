@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'icomoon';
-	src:url('fonts/icomoon.eot?-w3lund');
-	src:url('fonts/icomoon.eot?#iefix-w3lund') format('embedded-opentype'),
-		url('fonts/icomoon.woff?-w3lund') format('woff'),
-		url('fonts/icomoon.ttf?-w3lund') format('truetype'),
-		url('fonts/icomoon.svg?-w3lund#icomoon') format('svg');
+	src:url('https://raw.githubusercontent.com/Coyoter/coyoter.github.io/master/blog/fonts/icomoon.eot?-w3lund');
+	src:url('https://raw.githubusercontent.com/Coyoter/coyoter.github.io/master/blog/fonts/icomoon.eot?#iefix-w3lund') format('embedded-opentype'),
+		url('https://raw.githubusercontent.com/Coyoter/coyoter.github.io/master/blog/fonts/icomoon.woff?-w3lund') format('woff'),
+		url('https://raw.githubusercontent.com/Coyoter/coyoter.github.io/master/blog/fonts/icomoon.ttf?-w3lund') format('truetype'),
+		url('https://raw.githubusercontent.com/Coyoter/coyoter.github.io/master/blog/fonts/icomoon.svg?-w3lund#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
